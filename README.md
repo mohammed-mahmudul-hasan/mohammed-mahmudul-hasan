@@ -1,1 +1,1 @@
-I am a computer science graduate. Now I am learning Python. i am interrested to work in data science related fields.
+I am a computer science graduate. Now I am learning Python. I am interrested to work in data science related fields.
