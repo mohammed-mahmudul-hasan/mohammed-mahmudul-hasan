@@ -1,1 +1,1 @@
-I am a computer science graduate. Now I am learning Python. I am interrested to work in data science related fields.
+I am a computer science graduate. Now I am learning Web development and doing projects. I am interested to work as a front-end-developner or full stack developer.
